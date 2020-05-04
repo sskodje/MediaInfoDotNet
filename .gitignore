@@ -2,6 +2,7 @@
 packages/
 obj/
 bin/
+.vs/
 *~
 *.pidb
 *.userprefs
